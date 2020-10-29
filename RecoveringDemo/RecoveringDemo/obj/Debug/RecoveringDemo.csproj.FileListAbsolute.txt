@@ -1,0 +1,6 @@
+C:\Users\Richard\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\Debugging Exercises\RecoveringDemo\RecoveringDemo\bin\Debug\RecoveringDemo.exe.config
+C:\Users\Richard\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\Debugging Exercises\RecoveringDemo\RecoveringDemo\bin\Debug\RecoveringDemo.exe
+C:\Users\Richard\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\Debugging Exercises\RecoveringDemo\RecoveringDemo\bin\Debug\RecoveringDemo.pdb
+C:\Users\Richard\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\Debugging Exercises\RecoveringDemo\RecoveringDemo\obj\Debug\RecoveringDemo.csprojAssemblyReference.cache
+C:\Users\Richard\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\Debugging Exercises\RecoveringDemo\RecoveringDemo\obj\Debug\RecoveringDemo.exe
+C:\Users\Richard\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #4\Debugging Exercises\RecoveringDemo\RecoveringDemo\obj\Debug\RecoveringDemo.pdb
